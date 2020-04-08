@@ -1,6 +1,9 @@
 # document
 개발에 도움되는 사이트 및 강좌등
 
+# Util
+gitignore 파일 자동생성 사이트 https://www.gitignore.io/
+
 # Developer
 Realm https://realm.io/kr/docs/swift/latest/
 
