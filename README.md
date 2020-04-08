@@ -6,6 +6,7 @@ Realm https://realm.io/kr/docs/swift/latest/
 
 # IOS 강좌
 Swift 강좌 https://www.youtube.com/channel/UCtVacbJccQlQL_FP5XSEQMQ/videos
+SNS_Login https://docfriends.github.io/DevStrory/2018-12-18/swift-sns-login/
 
 # Android
 OCR Example https://github.com/hjiee/Android-TessTwo
