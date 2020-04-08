@@ -6,13 +6,14 @@ gitignore 파일 자동생성 사이트 https://www.gitignore.io/
 이미지변환(png->jpg) https://png2jpg.com/ko/  
 이미지용량줄이기 http://imgpresso.co.kr/  
 JSON Parser : http://json.parser.online.fr/
+Swift 강좌 https://www.youtube.com/channel/UCtVacbJccQlQL_FP5XSEQMQ/videos  
 
 # Developer  
 Realm https://realm.io/kr/docs/swift/latest/
 
-# IOS 강좌
-Swift 강좌 https://www.youtube.com/channel/UCtVacbJccQlQL_FP5XSEQMQ/videos  
-SNS_Login https://docfriends.github.io/DevStrory/2018-12-18/swift-sns-login/
+# IOS
+SNS_Login https://docfriends.github.io/DevStrory/2018-12-18/swift-sns-login/  
+구글 https://github.com/google/google-api-objectivec-client-for-rest
 
 # Android
 OCR Example https://github.com/hjiee/Android-TessTwo
