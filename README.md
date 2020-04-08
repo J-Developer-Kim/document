@@ -3,6 +3,8 @@
 
 # Util
 gitignore 파일 자동생성 사이트 https://www.gitignore.io/
+이미지변환(png->jpg) https://png2jpg.com/ko/
+이미지용량줄이기 http://imgpresso.co.kr/
 
 # Developer
 Realm https://realm.io/kr/docs/swift/latest/
