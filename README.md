@@ -16,7 +16,8 @@ SNS_Login https://docfriends.github.io/DevStrory/2018-12-18/swift-sns-login/
 구글 https://github.com/google/google-api-objectivec-client-for-rest
 
 # Android
-OCR Example https://github.com/hjiee/Android-TessTwo
+OCR Example https://github.com/hjiee/Android-TessTwo 
+WEB RTC https://juyoung-1008.tistory.com/25?category=685321
 
 애니메이션(Lottie) https://googry.tistory.com/13 https://tonyw.tistory.com/4 https://m.blog.naver.com/PostView.nhn?blogId=whdals0&logNo=221575073779&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F  
 (JSON 파일 검색) https://lottiefiles.com/search?query=celebration&q=%20celebration&page=2
